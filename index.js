@@ -36,5 +36,5 @@ app.post("/",function(req,res){
     
 });
 app.listen(3000,function(){
-    console.log("hi");
+    console.log("Running on port 3000");
 });
